@@ -1,4 +1,4 @@
-# Getting organized with my To-Do program
+# Getting organized with a To-Do program
 
 This project will call on my coding skills and vocabulary in order to build a productivity program: a task manager.
 
